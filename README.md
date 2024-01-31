@@ -1,5 +1,5 @@
 # Getting started
-The application is a todo list that helps to add actions to be taken for the day and when the completed, it turns green on clicking "complete". You can as well delete the action done for the day.
+The application is a todo list built using React that helps to add actions to be taken for the day and when the completed, it turns green on clicking "complete". You can as well delete the action done for the day.
 
 ## Available Scripts
 
